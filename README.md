@@ -29,7 +29,7 @@ A aplicação simula uma página de produto com layout fiel ao Figma, contendo c
 
 ## 🖼️ Visualização do Projeto
 
-Uma prévia das principais funcionalidades do **Fokus**:
+Uma prévia das principais funcionalidades do **Alura Plus**:
 
 **🌐 Acesse o Projeto Online**
 
